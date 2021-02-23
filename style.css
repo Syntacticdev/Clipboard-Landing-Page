@@ -180,7 +180,7 @@ footer p {
 }
 
 
-@media all and (min-width: 375px) and (max-width: 765px){
+@media (max-width: 765px){
     header {
         background: url('./images/bg-header-mobile.png');
         background-size: cover;
